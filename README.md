@@ -29,4 +29,4 @@ I'm xSkyf, people call me para, currently studying at [Sakky](https://sakky.fi).
 ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=gitkraken)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xSkyf&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=para1x6x9&hide=TeX&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xSkyf&hide=TeX&layout=compact)
